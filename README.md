@@ -1,5 +1,5 @@
 # Diabetes_Prediction
-Classification Model by Support Vector Machine
+# Classification Model by Support Vector Machine
 # Project Overview:
 # 1- Loading the Dataset:
 The dataset is loaded using the pandas library, providing a structured way to manage and analyze the data.
